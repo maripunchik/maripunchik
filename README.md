@@ -30,7 +30,7 @@ Figma • BEM • Responsive & Adaptive Layout • UI Architecture
 You can explore my work in two ways:
 
 - **Portfolio website:**  
-  👉 
+  👉 https://silver-puffpuff-dc2a13.netlify.app/#services
 
 - **Code for all projects:**  
   👉 https://github.com/maripunchik/portfolio-projects
